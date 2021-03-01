@@ -6,11 +6,11 @@ This information is about Capstone Project of Udacity program. It contains files
 
 # Requirements
 
-OpenCV
-Pytorch
-TQDM (Fast, Extensible Progress Meter)
-VGG16 pre-trained model
-Resnet152 pre-trained model (report)
+*OpenCV
+*Pytorch
+*TQDM 
+*VGG16 pre-trained model
+*Resnet152 pre-trained model 
 
 # Repository of Images
 
